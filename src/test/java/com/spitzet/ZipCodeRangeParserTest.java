@@ -1,4 +1,4 @@
-package com.williams_sonoma;
+package com.spitzet;
 
 import org.junit.Test;
 
